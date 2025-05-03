@@ -1,4 +1,4 @@
-import { Features } from "tailwindcss";
+
 import Fetures from "./Fetures";
 
 const HeroSection = () => {
@@ -6,9 +6,9 @@ const HeroSection = () => {
     <div className="flex flex-col gap-6">
 
         <div className="mt-30">
-            <span className="bg-slate-100 spectral-light rounded-4xl p-2">🤩 10,000+ Successfully Project</span>
+            <span className="bg-slate-100 spectral-light  rounded-b-5xl p-2">🤩 10,000+ Successfully Project</span>
         </div>
-      <h1 className="mt-4 spectral-bold  text-6xl text-slate-600">
+      <h1 className="mt-4 spectral-bold  text-6xl text-slate-700">
         Let AI Handle <br />
         Engagement While You Rest
       </h1>
